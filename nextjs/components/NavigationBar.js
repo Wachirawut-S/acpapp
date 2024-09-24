@@ -43,7 +43,7 @@ const NavigationLayout = ({ children }) => {
           <Button
             color="#ffffff"
             onClick={() => {
-              router.push("/page2");
+              router.push("/register");
             }}>
             <PersonIcon />
           </Button>
